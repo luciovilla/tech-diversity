@@ -1,0 +1,15 @@
+{
+  "name": "tech-diversity",
+  "version": "0.0.1",
+  "description": "Tips on how to 'install' diversity in tech.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tech",
+    "diversity"
+  ],
+  "author": "Lucio Villa",
+  "license": "MIT"
+}
