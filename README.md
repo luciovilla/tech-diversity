@@ -19,9 +19,9 @@ TK TK TK
 4. Push to the branch (`git push origin username-patch-n`)
 5. Open a [Pull Request](https://help.github.com/articles/creating-a-pull-request/)
 6. Enjoy some [Corgi cuteness](https://sneakersthecorgi.com)
-
-1x. Or [email](mailto:lucio310@gmail.com) me suggestions and I can add them too.
-2. and please do still enjoy some [Corgi cuteness](https://sneakersthecorgi.com)
+___
+1. Or [email](mailto:lucio310@gmail.com) me suggestions and I can add them too.
+2. And please, do still enjoy some [Corgi cuteness](https://sneakersthecorgi.com)
 
 ### License
 The MIT License (MIT)
